@@ -2,7 +2,7 @@
 
 A production-shaped backend for a multi-tenant SaaS platform, built with Java and Spring Boot. Implements JWT authentication and fine-grained role-based access control (RBAC), backed by PostgreSQL and deployed as a Docker container.
 
-**Live demo: https://multitenant-saas-backend-5nxx.onrender.com**
+**[Live Demo](https://multitenant-saas-backend-5nxx.onrender.com)**
 *(Free-tier hosting — the app may take 30–60 seconds to respond on the first request after a period of inactivity.)*
 
 ## Overview
