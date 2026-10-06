@@ -110,3 +110,5 @@ curl -X POST http://localhost:8080/api/projects \
 ## Notes
 
 This project was built to demonstrate backend and security fundamentals in a stack (Java/Spring Boot) distinct from other projects in this portfolio, which use Node.js/Express. It covers authentication, authorization, relational data modeling, and containerized deployment end to end.
+
+## License MIT — see [LICENSE](LICENSE) for details.
